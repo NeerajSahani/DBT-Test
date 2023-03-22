@@ -1,0 +1,10 @@
+
+version: 2
+
+models:
+  - name: dbt_neenopal_demo
+    description: "A starter dbt model"
+    database: postgres
+    schema: new
+    tables:
+      - name: 
